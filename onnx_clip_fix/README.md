@@ -55,6 +55,15 @@ Install onnx package
 
 `pip install onnx`
 
+## Install
+
+Get the code
+
+```
+git clone https://github.com/arthw/oepnvino_tools.git
+cd openvino_tools/onnx_clip_fix
+```
+
 ## Usage
 ```
 python onnx_clip_fix.py [input_model] [output_model]
