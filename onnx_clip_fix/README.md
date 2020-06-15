@@ -1,4 +1,4 @@
-Fix the Onnx Clip Node with three inputs issue.
+## Fix the Onnx Clip Node with Three Inputs Issue
 
 It's used to fix the known issue Runtime Error: [Clamp layer has incorrect number of input ports](https://github.com/openvinotoolkit/openvino/issues/444)
 
