@@ -49,8 +49,13 @@ attribute:
   min: Tensor
   max: Tensor
 ```
+## Prepare
 
-**Usage
+Install onnx package
+
+`pip install onnx`
+
+## Usage
 ```
 python onnx_clip_fix.py [input_model] [output_model]
 ```
